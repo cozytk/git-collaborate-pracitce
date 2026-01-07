@@ -23,7 +23,7 @@ def add(a: float, b: float) -> float:
         0
     """
     # TODO: 구현하세요
-    pass
+    return a + b
 
 
 def subtract(a: float, b: float) -> float:
